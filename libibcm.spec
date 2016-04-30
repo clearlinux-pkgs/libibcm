@@ -4,7 +4,7 @@
 #
 Name     : libibcm
 Version  : 1.0.5
-Release  : 2
+Release  : 3
 URL      : https://www.openfabrics.org/downloads/rdmacm/libibcm-1.0.5.tar.gz
 Source0  : https://www.openfabrics.org/downloads/rdmacm/libibcm-1.0.5.tar.gz
 Summary  : Userspace InfiniBand Communication Manager.
